@@ -33,3 +33,4 @@ $("#cat-button").on("click", function() {
   });
 
   alert("Hello everybody");
+  alert("Goodbye");
