@@ -31,3 +31,5 @@ $("#cat-button").on("click", function() {
         $("#images").prepend(catImage);
       });
   });
+
+  alert("Hello everybody");
